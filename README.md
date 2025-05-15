@@ -1,6 +1,6 @@
-# 🎣 Fishing Game Deluxe
+# 🎣 Fish Mania
 
-**Fishing Game Deluxe** is a fun and interactive 2D browser game where players drop a hook to catch colorful fish and avoid trash underwater — all while racing against the clock! Includes floating score effects, quirky humor, high scores, and celebratory confetti for winners!
+**Fish Mania** is a fun and interactive 2D browser game where players drop a hook to catch colorful fish and avoid trash underwater — all while racing against the clock! Includes floating score effects, quirky humor, high scores, and celebratory confetti for winners!
 
 ---
 
